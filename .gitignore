@@ -1,0 +1,4 @@
+## Files I don't want git to track
+
+*.dat
+results/
